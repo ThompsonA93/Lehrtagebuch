@@ -1,22 +1,61 @@
 # Git mit Github.com
 
-Git ist ein Version control system bei dem Server und Client Dateien und Programme miteinander synchronisieren. Hierzu verwendet man Befehle wie z.B.:
+Git ist ein Version control system bei dem Server und Client Dateien und Programme miteinander synchronisieren.
+
+
+
+
+
+
+## Datenspeicherung in GIT
+
+### Commits
+| Befehl | Beschreibung |
+| --- | --- |
+| git config |  |
+| git status |  |
+| git log ||
+| git reset ||
+| git add |  |
+| git commit |  |
+| git push | |
+
+
+### Branch
 
 | Befehl | Beschreibung |
-| ------ | ------------ |
-| git status | Zeigt Änderungen im lokalen Repository |
-| git config | Konfiguriert Git-Client (user.name, user.email) |
-| git clone | Kopiert ein Projekt vom remote Server auf lokalen Client |
-| git add | Fügt Dateien der lokalen Ablage hinzu |
-| git commit | Signiert Daten mit digitaler Unterschrift |
-| git push | Synchronisiert Daten von lokalem Gerät zu remote Server |
+| --- | --- |
+| git branch |  |
+| git checkout |  |
+| git merge |  |
 
-**Wichtige Eselsbrücke**: Add -> Commit -> Push
 
-## Klonen von Remote Ablagen
 
-## Hinzufügen von Dateien
+### Work Tree
 
-## Signieren von Dateien
+### Workspace
 
-## Synchronisieren mit Remote Ablagen
+### Local Repository (Stage)
+
+### Stash
+
+| Befehl | Beschreibung |
+| --- | --- |
+| git stash pop ||
+| git stash push ||
+| git stash list ||
+| git stash apply ||
+| git stash drop ||
+
+
+### Remote Repository
+
+| Befehl | Beschreibung |
+| --- | --- |
+| git fetch ||
+| git clone ||
+| git init ||
+| git remote ||
+
+
+
