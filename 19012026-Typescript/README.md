@@ -1,4 +1,39 @@
-# 12-01-2026 -- Typescript
+# 19-01-2026 -- Typescript
+
+TypeScript ist eine kompilierte Sprache mit starken Typsystem.
+Es basiert als Superset auf der Programmiersprache JavaScript. 
+Das bedeutet, dass TypeScript code, `.ts` mithilfe von `TSC` in 
+Javascript umgewandelt wird.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Recherche
 

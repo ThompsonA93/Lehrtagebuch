@@ -11,3 +11,6 @@ let dynamicVal: any = "Could be a string";
 dynamicVal = 42;
 
 console.log(userName, userAge, pi, isLogged, giantNumber, uniqueId, undef, nill, dynamicVal);
+
+// string, number
+// String, Number
