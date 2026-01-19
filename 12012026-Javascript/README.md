@@ -1,5 +1,7 @@
 # 12-01-2026 -- Javascript
 
+
+
 ## Recherche
 
 1. Wie wird folgender Code berechnet?
