@@ -5,36 +5,6 @@ Es basiert als Superset auf der Programmiersprache JavaScript.
 Das bedeutet, dass TypeScript code, `.ts` mithilfe von `TSC` in 
 Javascript umgewandelt wird.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Recherche
 
 1. Folgender Pseudocode beschreibt die sogenannte **Antisymmetrie** im Bezug zu Objekten und Datenstrukturen. Wann genau bietet es sich nun an Prozeduralen Code (mit Datenstrukturen) zu schreiben, und wann Objektorientierten Code (mit Klassen)?

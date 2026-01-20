@@ -19,3 +19,18 @@ class BadUser {
         console.log(`Saving ${this} to file ...`);
     }
 }
+
+class SRPUser {        // "Record", Data Class, Data Access object (DAO)
+    constructor(public name: string, public email: string){}
+    rename(name: string){ this.name = name; }
+}
+class SRPUserValidator{        // Globale validator klasse
+    static isValid(user: SRPUser): boolean {
+        return user.email.includes("@");
+    }
+}
+class SRPUserRepository {      // Data-Persistence Class -- managed alle DB-Anfragen
+    save(user: User){
+        console.log(`DB:: Saving ${user} to storage.`);
+    }
+}
